@@ -4,11 +4,10 @@
 
 
 # Table of Contents
-1. [Title](#social-network-API)
-2. [Purpose](#purpose)
-3. [Installation](#how-to-install)
-4. [Demo](#demo)
-6. [Contact Me](#contact-me)
+1. [Purpose](#purpose)
+2. [Installation](#how-to-install)
+3. [Demo](#demo)
+4. [Contact Me](#contact-me)
 
 
 # Purpose
@@ -21,6 +20,14 @@ The purpose of this app is to give users a way to create, read, update, and dele
 Clone the repository to your local machine, install the package.json, add your own connection string in the connection.js file, and run the program. Feel free to add a front end!
 
 # Demo
+
+
+https://user-images.githubusercontent.com/119913449/226805673-715559b2-da2c-40ec-afb6-ced6aa9ecc61.mp4
+
+
+
+https://user-images.githubusercontent.com/119913449/226805694-a242e4a8-5494-43f1-a64b-1af3d499139b.mp4
+
 
 
 
